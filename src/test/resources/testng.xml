@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="ASSGD1-Selenium">
+    <test name="Article CRUD">
+        <classes>
+            <class name="selenium.ArticleCRUDTest"/>
+        </classes>
+    </test>
+</suite>
+
+
+
+
